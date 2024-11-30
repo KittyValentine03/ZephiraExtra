@@ -1,0 +1,4 @@
+displayName = Zephira Cut and Extra
+author = Retr0Kate
+version = 0.1
+hideResources = true
